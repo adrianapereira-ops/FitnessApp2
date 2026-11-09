@@ -35,7 +35,7 @@ App Android de fitness con perfil de usuario, hecha con Jetpack Compose.
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/TU_USUARIO/FitnessApp2.git
+   git clone https://github.com/adrianapereira-ops/FitnessApp2.git
    ```
 2. Ábrelo con Android Studio.
 3. Espera a que Gradle sincronice.
