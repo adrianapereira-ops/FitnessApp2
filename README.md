@@ -10,9 +10,9 @@ App Android de fitness con perfil de usuario, hecha con Jetpack Compose.
 ## 📱 Capturas
 
 <p align="center">
-  <img src="screenshots/perfil.png" width="250" alt="Pantalla de perfil">
+  <img width="203" height="424" alt="Pantalla de perfil" src="https://github.com/user-attachments/assets/afb284ff-ac5e-4ca0-a6a1-31728e37459b" />
   &nbsp;&nbsp;&nbsp;
-  <img src="screenshots/editar-perfil.png" width="250" alt="Editar perfil">
+  <img width="240" height="422" alt="Editar perfil" src="https://github.com/user-attachments/assets/d3729828-5f4e-40b8-9ba4-ec5928b9d7df" />
 </p>
 
 ## ✨ Características
@@ -35,7 +35,7 @@ App Android de fitness con perfil de usuario, hecha con Jetpack Compose.
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/adrianapereira-ops/FitnessApp2.git
+   git clone https://github.com/TU_USUARIO/FitnessApp2.git
    ```
 2. Ábrelo con Android Studio.
 3. Espera a que Gradle sincronice.
